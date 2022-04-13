@@ -18,6 +18,10 @@ app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
 })
 
+//dossier test séparer
+// .test
+// const app = require("../src/app")
+
 // Test "User"
 request(app)
     .get('/user')
