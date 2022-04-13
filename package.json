@@ -1,0 +1,26 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chatelant/PresqueAAA.git"
+  },
+  "author": "Alexis - Antoine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chatelant/PresqueAAA/issues"
+  },
+  "homepage": "https://github.com/Chatelant/PresqueAAA#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "npm": "^8.6.0"
+  },
+  "devDependencies": {
+    "supertest": "^6.2.2"
+  }
+}
